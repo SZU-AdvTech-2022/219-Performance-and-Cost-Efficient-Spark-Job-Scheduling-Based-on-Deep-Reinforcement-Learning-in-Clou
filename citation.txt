@@ -1,0 +1,8 @@
+@article{REPO-220,
+    author = "Muhammed Tawfiqul Islam, Shanika Karunasekera and Buyya, Rajkumar",
+    journal = "IEEE Transactions on Parallel and Distributed Systems",
+    number = "7",
+    title = "{Performance and Cost-Efficient Spark Job Scheduling Based on Deep Reinforcement Learning in Cloud Computing Environments}",
+    volume = "33",
+    year = "2022"
+}
